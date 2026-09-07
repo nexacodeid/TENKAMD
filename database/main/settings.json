@@ -1,0 +1,187 @@
+{
+  "selfMode": false,
+  "ownerNumbers": [],
+  "ownerType": 2,
+  "welcomeType": 7,
+  "replyVariant": 6,
+  "menuVariant": 5,
+  "botAfk": {
+    "active": false
+  },
+  "cmdVn": false,
+  "autoSholatKota": {
+    "id": "1301",
+    "nama": "KOTA JAKARTA"
+  },
+  "onlyGc": false,
+  "onlyPc": false,
+  "giveaways": {},
+  "botMode": "self",
+  "audioMenu": true,
+  "transactionSessions": {},
+  "premiumUsers": [],
+  "similarity": true,
+  "botRules": "1.tes\\n2. tes",
+  "goodbyeType": 7,
+  "onlyAdmin": false,
+  "selfAdmin": false,
+  "publicAdmin": false,
+  "_lastEnergiDefault": 99999,
+  "_lastEnergiPremium": 99999999,
+  "lastLimitReset": "2026-06-15T17:00:00.029Z",
+  "onlyThisGroup": null,
+  "autoJpm": {
+    "enabled": false,
+    "intervalMs": 900000,
+    "message": {},
+    "lastRun": 1774157878673,
+    "nextRun": 1774158778673
+  },
+  "jedaJpm": 10000,
+  "globalCustomReplies": [],
+  "panelCreateLastUsed": 1775377733441,
+  "autoJoinGc": false,
+  "autoSholat": false,
+  "errorLog": [],
+  "jpmBlacklist": [],
+  "bannedUsers": [],
+  "allmenuVariant": 6,
+  "menucatVariant": 5,
+  "notifMakan": {},
+  "storeProducts": [],
+  "storeTrxCounter": 3,
+  "storeTransactions": {},
+  "storeLists": [],
+  "autoReadSW": {
+    "enabled": true
+  },
+  "autoReactSW": {
+    "enabled": true,
+    "emoji": "🔥"
+  },
+  "customPaymentText": "",
+  "bcgcEnabled": false,
+  "scheduledMessages": [],
+  "pushAutoVcf": false,
+  "selfGroups": [],
+  "ownerNames": {},
+  "publicGroups": [],
+  "autoRead": false,
+  "contacts": {
+    "6283840697255@s.whatsapp.net": {
+      "jid": "6283840697255@s.whatsapp.net",
+      "name": "...."
+    },
+    "6282191709610@s.whatsapp.net": {
+      "jid": "6282191709610@s.whatsapp.net",
+      "name": "Anita Putri Azzahra"
+    },
+    "6285191698967@s.whatsapp.net": {
+      "jid": "6285191698967@s.whatsapp.net",
+      "name": "bima"
+    },
+    "62895623055666@s.whatsapp.net": {
+      "jid": "62895623055666@s.whatsapp.net",
+      "name": "kyy"
+    },
+    "139076091027640@s.whatsapp.net": {
+      "jid": "139076091027640@s.whatsapp.net",
+      "name": "ALAY PLS PART 2"
+    },
+    "6287751752090@s.whatsapp.net": {
+      "jid": "6287751752090@s.whatsapp.net",
+      "name": "rama"
+    },
+    "6285142289196@s.whatsapp.net": {
+      "jid": "6285142289196@s.whatsapp.net",
+      "name": "NO PC/DM NANTI KEN BAN In"
+    },
+    "6285954167185@s.whatsapp.net": {
+      "jid": "6285954167185@s.whatsapp.net",
+      "name": "fhmhwdy"
+    },
+    "6283179324102@s.whatsapp.net": {
+      "jid": "6283179324102@s.whatsapp.net",
+      "name": "Gita Sekar"
+    },
+    "6288804343431@s.whatsapp.net": {
+      "jid": "6288804343431@s.whatsapp.net",
+      "name": "xᴀᴢᴇ ɪɴғɪɴɪᴛʏ"
+    },
+    "6282234957071@s.whatsapp.net": {
+      "jid": "6282234957071@s.whatsapp.net",
+      "name": "Huda"
+    },
+    "6285189332926@s.whatsapp.net": {
+      "jid": "6285189332926@s.whatsapp.net",
+      "name": "Lawren: Aku lagi sebar DANA Kaget nih! Yuk, sikat segera sebelum melayang"
+    },
+    "6287782241798@s.whatsapp.net": {
+      "jid": "6287782241798@s.whatsapp.net",
+      "name": "~asepp"
+    },
+    "13252945641@s.whatsapp.net": {
+      "jid": "13252945641@s.whatsapp.net",
+      "name": "Alya"
+    },
+    "62882009507703@s.whatsapp.net": {
+      "jid": "62882009507703@s.whatsapp.net",
+      "name": "Rijalganzzzzzzzzzzzzzzxz: Telah Mengeluarkan Anda"
+    },
+    "6285813912477@s.whatsapp.net": {
+      "jid": "6285813912477@s.whatsapp.net",
+      "name": "Kell"
+    },
+    "6283876975126@s.whatsapp.net": {
+      "jid": "6283876975126@s.whatsapp.net",
+      "name": "Dayy"
+    },
+    "6282256571970@s.whatsapp.net": {
+      "jid": "6282256571970@s.whatsapp.net",
+      "name": "."
+    },
+    "6288271272033@s.whatsapp.net": {
+      "jid": "6288271272033@s.whatsapp.net",
+      "name": "N🤍"
+    },
+    "62895385963163@s.whatsapp.net": {
+      "jid": "62895385963163@s.whatsapp.net",
+      "name": "rozzak"
+    },
+    "6287797297543@s.whatsapp.net": {
+      "jid": "6287797297543@s.whatsapp.net",
+      "name": "Zaa | https://rysav.eu.cc"
+    },
+    "6285707641995@s.whatsapp.net": {
+      "jid": "6285707641995@s.whatsapp.net",
+      "name": "mbuh"
+    },
+    "6283162065090@s.whatsapp.net": {
+      "jid": "6283162065090@s.whatsapp.net",
+      "name": "Andika Putra"
+    },
+    "6287839022485@s.whatsapp.net": {
+      "jid": "6287839022485@s.whatsapp.net",
+      "name": "Fadil"
+    },
+    "6283832251898@s.whatsapp.net": {
+      "jid": "6283832251898@s.whatsapp.net",
+      "name": "ʀʏᴢᴇɴ ᴛʀx | sᴛᴏʀᴇ"
+    },
+    "6283142110522@s.whatsapp.net": {
+      "jid": "6283142110522@s.whatsapp.net",
+      "name": "yaya saya sepakat"
+    },
+    "628973017117@s.whatsapp.net": {
+      "jid": "628973017117@s.whatsapp.net",
+      "name": "."
+    }
+  },
+  "notiflimit": false,
+  "pgTopups": {},
+  "pgPayments": {},
+  "storeAutoProducts": [],
+  "allmenuAudioStyle": 3,
+  "sitagrup": {},
+  "srtEnabled": true
+}
