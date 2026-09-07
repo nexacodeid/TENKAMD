@@ -4,24 +4,24 @@ import * as ownerPremiumDb from "./src/lib/haidar-premium-db.js";
 //  utamakan baca object config sampai bawah
 const config = {
   info: {
-    website: "https://haidarweb.my.id",
+    website: "https://github.com/XyraaCode",
     grupwa: "https://chat.whatsapp.com/xxxx",
   },
 
   owner: {
-    name: "haidar", // Nama owner
-    number: ["62895623055666"], // Format: 628xxx (tanpa + atau 0)
+    name: "DORAEMON STORE", // Nama owner
+    number: ["628886326382"], // Format: 628xxx (tanpa + atau 0)
   },
 
   session: {
-    pairingNumber: "6288226168458", // Nomor WA yang akan di-pair, ini penting
+    pairingNumber: "6285834587620", // Nomor WA yang akan di-pair, ini penting
     usePairingCode: true, // true = Pairing Code, false = QR Code
   },
 
   bot: {
-    name: "𝗧𝗘𝗡𝗞𝗔 𝗠𝗗", // Nama bot
+    name: "𝗗𝗢𝗥𝗔𝗘𝗠𝗢𝗡 𝗦𝗧𝗢𝗥𝗘", // Nama bot
     version: "3.1", // Versi bot
-    developer: "haidar", // Nama developer
+    developer: "xyraacode", // Nama developer
   },
 
   assets: {
